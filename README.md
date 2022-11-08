@@ -1,8 +1,7 @@
-# Blank Web App
+# Hubspot connector
 
-House of [Blank Web App](https://marketplace.mendix.com/link/component/51830)
-
-For collaboration with Atlas or Widgets, please visit [Widgets Resources](https://github.com/mendix/widgets-resources)
+Mendix integration with [Hubspot](https://hubspot.com/). Supported endpoints are :
+* get deals
 
 ## Installation
 
