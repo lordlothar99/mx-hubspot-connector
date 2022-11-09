@@ -1,7 +1,10 @@
 # Hubspot connector
 
 Mendix integration with [Hubspot](https://hubspot.com/). Supported endpoints are :
-* get deals
+* list deals
+* get deal
+* update deals
+* list pipeline's stages
 
 ## Installation
 
