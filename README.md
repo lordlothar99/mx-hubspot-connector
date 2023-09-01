@@ -10,7 +10,7 @@ Mendix integration with [Hubspot](https://hubspot.com/). Supported endpoints are
 | create deals | crm.objects.deals.write |
 | list pipelines | |
 | list pipeline's stages | |
-| list owners | |
+| list owners | crm.objects.owners.read |
 
 ## Installation
 
