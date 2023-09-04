@@ -4,13 +4,14 @@ Mendix integration with [Hubspot](https://hubspot.com/). Supported endpoints are
 
 | endpoint | required scopes |
 | -------- | --------------- |
-| list deals | crm.objects.deals.read |
-| read deals | crm.objects.deals.read |
-| update deals | crm.objects.deals.write |
-| create deals | crm.objects.deals.write |
-| list pipelines | |
-| list pipeline's stages | |
-| list owners | crm.objects.owners.read |
+| list/read deals | crm.objects.deals.read |
+| create/update deals | crm.objects.deals.write |
+| list/read pipelines | |
+| list/read pipeline's stages | |
+| list/read owners | crm.objects.owners.read |
+| list/read owners | crm.objects.owners.read |
+| list/read contacts | crm.objects.contacts.read |
+| create/update contacts | crm.objects.contacts.write |
 
 ## Installation
 
