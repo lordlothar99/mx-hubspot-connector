@@ -1,4 +1,4 @@
-# Hubspot connector
+# HubSpot connector
 
 Mendix integration with [HubSpot](https://hubspot.com/). Supported endpoints are :
 
