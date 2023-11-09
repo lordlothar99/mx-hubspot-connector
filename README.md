@@ -1,6 +1,6 @@
-# Hubspot connector
+# HubSpot connector
 
-Mendix integration with [Hubspot](https://hubspot.com/). Supported endpoints are :
+Mendix integration with [HubSpot](https://hubspot.com/). Supported endpoints are :
 
 | endpoint | required scopes |
 | -------- | --------------- |
@@ -15,4 +15,4 @@ Mendix integration with [Hubspot](https://hubspot.com/). Supported endpoints are
 
 ## Installation
 
-Follow the steps described here [Hubspot private apps](https://developers.hubspot.com/docs/api/private-apps).
+Follow the steps described here [HubSpot private apps](https://developers.hubspot.com/docs/api/private-apps).
